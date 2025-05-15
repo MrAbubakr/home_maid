@@ -1,0 +1,227 @@
+{
+  "hello": "Hello",
+  "welcome": "Welcome, {name}!",
+  "services": "Services",
+  "searchhint": "I want to hire a ...",
+  "appname": "HomeMaid",
+    "cleaning": "Cleaning",
+    "cooking": "Cooking",
+    
+    "nurse": "Nurse/CareTaker",
+    
+    "more": "More",
+    
+  
+    "intro_title": "Best Helper for you",
+    "intro_subT": "With Our On-Demand Services App,We Give Better Services To You.",
+    "button_title":  "Get Started" ,
+    "next": "Next",
+  "finish": "Finish",
+  "skip": "Skip",
+  "intro_title2": "Choose a service",
+  "intro_subT2" : "Find the right service for your needs easily, with a variety of options available at your fingertips",
+  "intro_title3": "Get a quote",
+  "intro_subT3": "Request price estimates from professionals to help you make informed decisions with ease",
+  "intro_title4": "Work done",
+  "intro_subT4": "Sit back and relax while skilled experts efficiently take care of your tasks,ensuring a job well done.",
+
+
+  
+
+  "signup_title": "HomeMaid",
+  "signup_subT": "Join To Get Served",
+  "first_name" : "First Name",
+  "last_name": "Last Name",
+  "email": "Email",
+  "password": "Password",
+  "confirm_p": "Confirm Password",
+  "signup_btn": "SignUp",
+  "login": "Login",
+  "already account": "Already have an accont?",
+
+
+
+  "login_subT": "Welcome Back",
+  "forget_pass": "Forget Password?",
+  "no_account": "Didn't have an accont?",
+
+
+  "home": "Home" ,
+  "promotion": "Promotion",
+  "notification": "Notification",
+  "profile": "Profile",
+
+
+  "my_profile": "My Profile",
+  "contact": "Contact Us",
+  "share": "Share",
+  "rate": "Rate",
+  "logout": "Logout",
+
+
+  "comebk": "Come Back Soon ?",
+"logoutconfirm": "Are you sure to logout",
+"cancel": "Cancel",
+"be_worker": "Join To Become A Worker",
+"dob": "Select Your DOB",
+"front_id": "Front ID CNIC",
+"back_id": "Back ID Card",
+"selfie": "Selfie With ID Card",
+"location": "Location",
+"submit": "Submit",
+"order_title": "Place Order",
+"order_subT": "We are going to process your order as soon as you tap the `Place Order` button.",
+"confirm_order": "Confirm Order",
+"more2": "More >>",
+"catagory": "Category",
+"no_location": "No location selected",
+"details": "Add Details",
+"photo": "Add Photo",
+
+
+
+"promo_title": "Promotions",
+"no_promo": "No Promotions Yet",
+"promo_subT": "You have no promotions right now come back later.",
+
+"Fname_valid": "First Name Required",
+"Fname_valid2": "Enter a valid name",
+"Lname_valid": "Last Name Required",
+"Lname_valid2": "Enter a valid name",
+"mailvalild": "Email cannot be empty",
+"mailvalid2": "Invalid email address",
+"password_valid": "Password Required",
+"password_valid2": "Password must be at least 8 characters",
+"again_pass": "Enter Password Again",
+"match_pass": "Password Does Not Match",
+"dob_valid": "Please select your date of birth",
+"image_valid": "Image Required",
+"location_valid": "Location is required",
+"send": "Send",
+
+
+"save_changes": "Save Changes",
+"edit_pro": "Edit Profile", 
+"personal Info": "Personal Information",
+"varify" : "Verifications",
+"change Pass": "Change Password",
+"Name_label": "Enter Your Name",
+"Email_label": "Enter Your Email" ,
+"worker_detail" : "Worker Detail",
+"want_to_chat": "Want To Chat",
+
+"okay": "Okay",
+  "excellent": "Excellent",
+  "good": "Good",
+  "bad": "Bad",
+  "very_bad": "Very Bad",
+  "feedback": "Feedback",
+  "means_a_lot": "Your feedback means a lot",
+  "write_your_feedback": "Write your feedback",
+
+  "name": "Name",
+  
+"address": "Address",
+"descript": "Description",
+"old_pass": "Old Password",
+"new_pass" : "New Password",
+"feedback_required": "Enter Your Feedback" ,
+"select_gender": "Select Gender",
+"male": "Male",
+"female": "Female",
+"others": "Others",
+"email:": "Email",
+
+"phone_req": "Phone Number Required",
+"valid_ph": "This is not a valid number",
+"password:": "Password",
+"location:" : "Location",
+"gender:": "Gender",
+"gender": "Gender",
+"front_id:": "Front ID",
+"back_id:": "Back ID",
+"selfie:": "Selfie With ID",
+
+"all_reviews" : "Reviews",
+"view_all": "View All",
+"read_m": "Read More",
+"read_l":  "Read Less",
+"lang": "Language",
+"contact_us": "Contact Us",
+"chat": "Chat",
+"chat:": "chat",
+"call": "Call",
+"message": "Message",
+"detail": "Type Your Message",
+"forget": "Forget Password",
+"enteremail": "Enter The Email Address",
+"sendmail": "Send Email",
+"otp": "OTP",
+"enterotp": "Enter OTP",
+"noOtp": "Didn't get OTP?",
+"resend": "Resend",
+"emptyField" : "Field cannot be empty",
+"invalidotp" : " Invalid OTP",
+"filtertitle": "Add Filter",
+"clear_filters_title": "Clear Filters",
+  "clear_filters_message": "Are you sure you want to clear all filters?",
+  "clear": "Clear",
+  "filters_cleared": "All filters have been cleared",
+  "orders": "Orders",
+
+  "selectsource": "Select an Image",
+  "selectsourcemessage" : "Would you like to pick an image from the camera or gallery?",
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "previewimage": "Preview",
+  "imagepreview" : "Image Preview",
+  "retake": "Retake",
+  "chooseanother": "Choose Another",
+
+  "name_req": "Please enter your name",
+  "Message": "Please enter your message",
+  "sent": "Message sent successfully!"
+  
+
+  
+  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+  
+  
+  
+  
+
+
+
+  
